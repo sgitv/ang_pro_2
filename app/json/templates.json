@@ -1,0 +1,76 @@
+[
+	{
+		"id":1,
+		"name":"standard cude",
+		"description":"Rubik's Cube is a 3-D combination puzzle invented in 1974 by Hungarian sculptor and professor of architecture Ernő Rubik. Originally called the Magic Cube, the puzzle was licensed by Rubik to be sold by Ideal Toy Corp. in 1980 via businessman Tibor Laczi and Seven Towns founder Tom Kremer,and won the German Game of the Year special award for Best Puzzle that year. As of January 2009, 350 million cubes had been sold worldwide making it the world's top-selling puzzle game.It is widely considered to be the world's best-selling toy.",
+		"price": 15,
+		"images":[
+			{
+				"name":"http://s3.thingpic.com/images/qt/bMfF9DnBFZaaGtmGHXTEiySX.png"
+			},
+			{
+				"name":"http://i5.walmartimages.com/dfw/dce07b8c-edc1/k2-_b5629428-ad63-4584-a6a5-baac699b248f.v1.jpg"
+			},
+			{
+				"name":"http://ecx.images-amazon.com/images/I/51s9MK0KtXL._SY300_.jpg"
+			}
+		]
+
+	},
+	{
+		"id":2,
+		"name":"2x2",
+		"description":"This is the 2x2 version of Erno Rubik’s original Rubik’s cube. This cube is sometimes called the Pocket Cube or the Mini Cube. You might think only having 4 faces on each size makes it easy, but it’s still a challenge. Here are some videos and guides that will help you figure it out.",
+		"price": 17,
+		"images":[
+			{
+				"name":"http://www.bestspeedcube.com/wp-content/uploads/2013/07/DayanZanchi2x2.png"
+			},
+			{
+				"name":"http://cdn.shopify.com/s/files/1/0604/4257/products/Zanchi_2x2_Black_1400.jpg?v=1409593844"
+			}
+		]
+	},
+	{
+		"id":3,
+		"name":"transparent",
+		"description":"Rubik's Cube is a 3-D combination puzzle invented in 1974 by Hungarian sculptor and professor of architecture Ernő Rubik. Originally called the Magic Cube, the puzzle was licensed by Rubik to be sold by Ideal Toy Corp. in 1980 via businessman Tibor Laczi and Seven Towns founder Tom Kremer,and won the German Game of the Year special award for Best Puzzle that year. As of January 2009, 350 million cubes had been sold worldwide making it the world's top-selling puzzle game.It is widely considered to be the world's best-selling toy.",
+		"price": 18,
+		"images":[
+			{
+				"name":"http://www.cubezz.com/images/201308/goods_img/4167_P_1376929793932.jpg"
+			},
+			{
+				"name":"http://cubezz.com/images/201308/goods_img/4167_P_1376929793975.jpg"
+			}
+		]
+	},
+	{
+		"id":4,
+		"name":"7x7",
+		"description":"Each side is made up of 25 centers, 20 edges, and 4 corners. With 6 sides this makes for 150 centers, 120 edges, and 24 corners, for a grand total of 294 faces. Each center is alone, each edge is paired with 1 other edge, and each corner is paired with 2 other corners. This makes for a grand total of '150 + 60 + 8 = 218' blocks.",
+		"price": 25,
+		"images":[
+			{
+				"name":"http://www.mrpuzzle.com.au/media/catalog/product/cache/1/image/600x600/310204135c0f516b895156a0391ad8d6/6/1/615_1_1.png"
+			},
+			{
+				"name":"http://img.dxcdn.com/productimages/sku_18354_1.jpg"
+			}
+		]
+	},
+	{
+		"id":5,
+		"name":"Pyraminx",
+		"description":"The Pyraminx also known as the triangle Rubik’s Cube is a tetrahedron-shaped 3-layered twisty puzzle, having four triangular faces which are all divided into nine identical smaller triangles. It is the second best selling toy in the World with 100 million pieces sold.",
+		"price": 19,
+		"images":[
+			{
+				"name":"http://ecx.images-amazon.com/images/I/41k6%2B1KBAqL._AC_UL320_SR318,320_.jpg"
+			},
+			{
+				"name":"http://www.thespeedcube.com/75-thickbox_default/shengshou-pyraminx-speed-cube.jpg"
+			}
+		]
+	}
+]

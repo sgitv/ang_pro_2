@@ -1,0 +1,11 @@
+</div>
+<div class = "row templates">
+	<div ng-repeat = "get in details">
+		<div class = "col-md-4">
+			<h3>{{get.name}}</h3>
+			<img ng-src="{{get.images[0].name}}">
+			<h4>${{get.price}}</h4>
+			<a class="btn btn-primary btn-block" href="#/templates/{{get.id}}">Details</a>
+		</div>
+	</div>
+</div>
